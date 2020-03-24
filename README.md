@@ -3,7 +3,6 @@
 设置时区为 Asia/Shanghai
 
 常用命令：
-
 ```sh
 # 拉取镜像
 $ docker pull hollisho/centos
